@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="portifolio.css">
+    <title>Your Name - Portfolio</title>
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <h1>Chennuru Bala Sai Chaithanya</h1>
+        
+    </div>
+</header>
+
+<section class="about-me">
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            Welcome to my Portfolio Website All!
+        </p>
+
+        <p>
+            My Aim is to be Placed in a Good Company Where I can use my Skills in a Proper Manner and in a Healthy Environment.
+        </p>
+    </div>
+</section>
+
+<section class="skill">
+    <div class="container">
+          <h2>MY SKILLS</h2>
+          <ul>
+            <li>JAVA PROGRAMMING</li>
+            <li>HTML</li>
+          </ul>
+    </div>
+</section>
+
+<section class="projects">
+    <div class="container">
+       
+        <div class="project">
+            <h3><b>MY PROJECT</b></h3>
+            <h3>Fruit Quality Detective System Using Machine Learning Algorithms:</h3>
+            <p>Fruit Quality Detective System using a machine learning algorithm is to accurately assess and classify the quality of fruits based on various attributes such as size, color, and texture.
+            </p>
+        </div>
+        <!-- Add more projects as needed -->
+    </div>
+</section>
+
+<section class="contact">
+    <div class="container">
+        <h2>Contact Details:</h2>
+        <p>Email: saichaithanyabala10334@gmail.com</p>
+        <p>LinkedIn:https://www.linkedin.com/in/bala-sai-chaithanya-bb3b26261/</p>
+        <p>GitHub: https://github.com/BalaSaiChaithanya</p>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </div>
+</footer>
+
+</body>
+</html>
